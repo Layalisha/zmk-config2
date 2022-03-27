@@ -65,8 +65,8 @@
     compatible = "zmk,keymap-sensors";
     sensors = <&left_encoder &right_encoder>;
   };
-};
-
+  
+  
 &pro_micro_i2c {
   status = "okay";
 
